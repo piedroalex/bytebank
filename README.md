@@ -1,4 +1,6 @@
-# Bytebank
+# Projeto: Bytebank
+
+Desenvolvido durante o curso [Java Servlet: programação web Java](https://www.alura.com.br/curso-online-servlets-fundamentos-programacao-web-java) da Alura.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
